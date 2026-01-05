@@ -6,6 +6,7 @@
 Software Developer, Computer Science, York University Grad, based in Toronto, ON 
 </p>
 </div>
+
 ***
 
 <div align="center">
