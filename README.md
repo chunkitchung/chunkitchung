@@ -1,8 +1,4 @@
 <div align="center">
-### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
-</div>
-
-<div align="center">
    
 <a href="https://linkedin.com/in/chunkitchung" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
