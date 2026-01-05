@@ -8,8 +8,6 @@
 Software Developer, Computer Science, York University Grad, based in Toronto, ON 
 ***
 
-***
-
 <div align="center"> 
    <h1> :point_down: Check out my pinned projects below! :point_down: </h2>
 </div>   
